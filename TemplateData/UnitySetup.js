@@ -8,14 +8,14 @@
 
 
 var buildUrl = "Build";
-var loaderUrl = buildUrl + "/Test.loader.js";
+var loaderUrl = buildUrl + "/SMTCopyBuild.loader.js";
 var config = {
-    dataUrl: buildUrl + "/Test.data",
-    frameworkUrl: buildUrl + "/Test.framework.js",
-    codeUrl: buildUrl + "/Test.wasm",
+    dataUrl: buildUrl + "/SMTCopyBuild.data",
+    frameworkUrl: buildUrl + "/SMTCopyBuild.framework.js",
+    codeUrl: buildUrl + "/SMTCopyBuild.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
-    productName: "PhotonReadyPlayerMeVuplex",
+    productName: "SMT",
     productVersion: "0.1",
 };
 
